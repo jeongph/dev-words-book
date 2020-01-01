@@ -6,9 +6,16 @@
 > 3. 사전순서로 정리 A to Z
 
 ## J
-- Java
+- JAMstack (JavaScript, APIs, and Markup stack)
+[\[Homepage\]](https://jamstack.org/)
+- JS (JavaScript)
+[\[Wiki\]](https://en.wikipedia.org/wiki/JavaScript)
 
 ## K
+- k8s (Kubernetes)
+[\[Homepage\]](https://kubernetes.io/)
+[\[Wiki\]](https://en.wikipedia.org/wiki/Kubernetes)
+[\[Github\]](https://github.com/kubernetes)
 
 ## L
 
@@ -19,9 +26,10 @@
 ## O
 
 ## P
-- PHP (PHP - Hypertext Preprocessor)
+- PHP (PHP:Hypertext Preprocessor)
 [\[Homepage\]](https://www.php.net/)
 [\[Wiki\]](https://en.wikipedia.org/wiki/PHP)
+[\[Github\]](https://github.com/php)
 
 ## Q
 
@@ -51,4 +59,4 @@
 - Vue
 [\[Homepage\]](https://vuejs.org/)
 [\[Wiki\]](https://en.wikipedia.org/wiki/Vue.js)
-[\[Github\]](https://github.com/vuejs/vue)
+[\[Github\]](https://github.com/vuejs)
