@@ -30,6 +30,8 @@
 [\[Wiki\]](https://en.wikipedia.org/wiki/Database)
 - DBMS (DataBase Management System)
 [\[Wiki\]](https://en.wikipedia.org/wiki/Database#Database_management_system)
+- DDD (Domain-driven design)
+[\[Wiki\]](https://en.wikipedia.org/wiki/Domain-driven_design)
 - DOM (Document Object Model)
 [\[Wiki\]](https://en.wikipedia.org/wiki/Document_Object_Model)
 
@@ -57,6 +59,8 @@
 - JSON (JavaScript Object Notation)
 [\[Homepage\]](https://www.json.org/json-en.html)
 [\[Wiki\]](https://en.wikipedia.org/wiki/JSON)
+- JIT Compilation (just-in-time compilation)
+[\[Wiki\]](https://en.wikipedia.org/wiki/Just-in-time_compilation)
 
 ## K
 - k8s (Kubernetes)
@@ -75,6 +79,12 @@
 [\[Github\]](https://github.com/nuxt)
 
 ## O
+- OOP (Object-Oriented Programming)
+[\[Wiki\]](https://en.wikipedia.org/wiki/Object-oriented_programming)
+- ORM (Object-relational mapping)
+[\[Wiki\]](https://en.wikipedia.org/wiki/Object-relational_mapping)
+- OS (Operating system)
+[\[Wiki\]](https://en.wikipedia.org/wiki/Operating_system)
 
 ## P
 - PHP (PHP:Hypertext Preprocessor)
@@ -98,7 +108,12 @@
 [\[Wiki\]](https://en.wikipedia.org/wiki/React_Native)
 [\[Github\]](https://github.com/facebook/react-native)
 
+- R&D (Research and development)
+[\[Wiki\]](https://en.wikipedia.org/wiki/Research_and_development)
+
 ## S
+- SPA (single-page application)
+[\[Wiki\]](https://en.wikipedia.org/wiki/Single-page_application)
 - SQL (Structured Query Language)
 [\[Wiki\]](https://en.wikipedia.org/wiki/SQL)
 
@@ -112,6 +127,10 @@
 [\[Wiki\]](https://en.wikipedia.org/wiki/URL)
 
 ## V
+- VB (Visual Basic)
+[\[Docs\]](https://docs.microsoft.com/ko-kr/dotnet/visual-basic/)
+[\[Wiki\]](https://en.wikipedia.org/wiki/Visual_Basic)
+
 - Vue
 [\[Homepage\]](https://vuejs.org/)
 [\[Wiki\]](https://en.wikipedia.org/wiki/Vue.js)
@@ -120,6 +139,9 @@
 ## W
 - W3C, WWWC (World Wide Web Consortium)
 [\[Wiki\]](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
+
+- Wasm, WebAssembly
+[\[Wiki\]](https://en.wikipedia.org/wiki/WebAssembly)
 
 ## X
 
