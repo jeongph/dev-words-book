@@ -5,6 +5,7 @@
 > 2. 단어만 정리하긴 허전하니까 유틸성을 위해, Wiki link 혹은 Official docs link
 > 3. 사전순서로 정리 A to Z
 > 오탈자 및 오류 제보는 큰 힘이 됩니다.
+
 ## A
 - AJAX (Asynchronous JavaScript And XML)
 [\[Wiki\]](https://en.wikipedia.org/wiki/Ajax_(programming))
