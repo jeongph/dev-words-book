@@ -3,7 +3,7 @@
 > 일단 목표로 하는 필요 기능들
 > 1. 축약어(축약어의 전체 단어)
 > 2. 단어만 정리하긴 허전하니까 유틸성을 위해, Wiki link 혹은 Official docs link
-> 3. 사전순서로 정리 A to Z
+> 3. 사전순서로 정리 A to Z (ABCDEFGHIJKLMNOPQRSTUVWXYZ)
 > 오탈자 및 오류 제보는 큰 힘이 됩니다.
 
 
@@ -44,13 +44,21 @@
 ## G
 - Git
 [\[Github\]](https://en.wikipedia.org/wiki/Git)
+- GUI (Graphical User Interface)
+[\[Github\]](https://en.wikipedia.org/wiki/Graphical_user_interface)
 
 ## H
+- HTTP
+[\[Wiki\]](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+- HTTPS
+[\[Wiki\]](https://en.wikipedia.org/wiki/HTTPS)
 - HTML (HyperText Markup Language)
 [\[w3c\]](https://www.w3.org/)
 [\[Wiki\]](https://en.wikipedia.org/wiki/HTML)
 
 ## I
+- i18n (internationalization)
+[\[Wiki\]](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 
 ## J
 - JAMstack (JavaScript, APIs, and Markup stack)
@@ -71,8 +79,14 @@
 [\[Github\]](https://github.com/kubernetes)
 
 ## L
+- l10n (localization)
+[\[Wiki\]](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 
 ## M
+- MVC (Model–View–Controller)
+[\[Wiki\]](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+- MVVM (Model–View–ViewModel)
+[\[Wiki\]](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
 ## N
 - Nuxt.js : Server-side rendering framework based on Vue.js
@@ -104,12 +118,10 @@
 [\[Homepage\]](https://reactjs.org/)
 [\[Wiki\]](https://en.wikipedia.org/wiki/React_(web_framework))
 [\[Github\]](https://github.com/facebook/react)
-
 - RN (React Native)
 [\[Homepage\]](https://facebook.github.io/react-native/)
 [\[Wiki\]](https://en.wikipedia.org/wiki/React_Native)
 [\[Github\]](https://github.com/facebook/react-native)
-
 - R&D (Research and development)
 [\[Wiki\]](https://en.wikipedia.org/wiki/Research_and_development)
 
@@ -120,11 +132,14 @@
 [\[Wiki\]](https://en.wikipedia.org/wiki/SQL)
 
 ## T
+- TS (TypeScript)
+[\[Homepage\]](http://www.typescriptlang.org/)
+[\[Wiki\]](https://en.wikipedia.org/wiki/TypeScript)
+[\[Github\]](https://github.com/microsoft/TypeScript)
 
 ## U
 - URI (Uniform Resource Identifier)
 [\[Wiki\]](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
-
 - URL (Uniform Resource Locator)
 [\[Wiki\]](https://en.wikipedia.org/wiki/URL)
 
@@ -132,7 +147,8 @@
 - VB (Visual Basic)
 [\[Docs\]](https://docs.microsoft.com/ko-kr/dotnet/visual-basic/)
 [\[Wiki\]](https://en.wikipedia.org/wiki/Visual_Basic)
-
+- VPN (Virtual Private Network)
+[\[Wiki\]](https://en.wikipedia.org/wiki/Virtual_private_network)
 - Vue
 [\[Homepage\]](https://vuejs.org/)
 [\[Wiki\]](https://en.wikipedia.org/wiki/Vue.js)
@@ -141,11 +157,14 @@
 ## W
 - W3C, WWWC (World Wide Web Consortium)
 [\[Wiki\]](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
-
 - Wasm, WebAssembly
 [\[Wiki\]](https://en.wikipedia.org/wiki/WebAssembly)
+- WYSIWYG (What You See Is What You Get)
+[\[Wiki\]](https://en.wikipedia.org/wiki/WYSIWYG)
 
 ## X
+- XML (eXtensible Markup Language)
+[\[Wiki\]](https://en.wikipedia.org/wiki/XML)
 
 ## Y
 
