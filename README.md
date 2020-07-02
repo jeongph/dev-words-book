@@ -11,7 +11,7 @@
 [\[Wiki\]](https://en.wikipedia.org/wiki/Ajax_(programming))
 - Ansible
 [\[Docs\]](https://docs.ansible.com/)
-[\[Wiki\]](https://ko.wikipedia.org/wiki/Ansible)
+[\[Wiki\]](https://en.wikipedia.org/wiki/Ansible_(software))
 [\[Github\]](https://github.com/ansible)
 [\[Homepage\]](https://www.ansible.com/)
 - API (Application Programming Iterface)
