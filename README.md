@@ -1,15 +1,19 @@
-# Development words book (개발 관련 단어 백과사전)
+# Development words book (개발 관련 단어 백과사전) ~~이하 DWB~~
 > 개발 관련 단어 백과사전 (=개발 관련 단어들 정리)
 > 일단 목표로 하는 필요 기능들
 > 1. 축약어(축약어의 전체 단어)
 > 2. 단어만 정리하긴 허전하니까 유틸성을 위해, Wiki link 혹은 Official docs link
-> 3. 사전순서로 정리 A to Z (ABCDEFGHIJKLMNOPQRSTUVWXYZ)
+> 3. 사전순서로 정리 A to Z (A B C D E F G H I J K L M N O P Q R S T U V W X Y Z)
 > 오탈자 및 오류 제보는 큰 힘이 됩니다.
-
 
 ## A
 - AJAX (Asynchronous JavaScript And XML)
 [\[Wiki\]](https://en.wikipedia.org/wiki/Ajax_(programming))
+- Ansible
+[\[Docs\]](https://docs.ansible.com/)
+[\[Wiki\]](https://ko.wikipedia.org/wiki/Ansible)
+[\[Github\]](https://github.com/ansible)
+[\[Homepage\]](https://www.ansible.com/)
 - API (Application Programming Iterface)
 [\[Wiki\]](https://en.wikipedia.org/wiki/Application_programming_interface)
 
